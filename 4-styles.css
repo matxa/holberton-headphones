@@ -461,3 +461,10 @@ header .menu-btn, .menu-icon {
         justify-content: space-between;
     }
 }
+
+.navbar-menu .nav-item a {
+    font-size: 12.5px;
+}
+.navbar-menu .nav-item a:hover {
+    color: #FF6565;
+}
