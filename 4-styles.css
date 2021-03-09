@@ -64,7 +64,7 @@ header {
 }
 
 header .container {
-    background-image: url("/images/headphones_hero_1.jpg");
+    background-image: url("./images/headphones_hero_1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: grey;
