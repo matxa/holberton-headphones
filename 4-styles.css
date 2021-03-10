@@ -222,7 +222,7 @@ header .menu-btn, .menu-icon {
   .pentagon {
     height: 200px;
     width: 200px;
-    background-image: url("/images/pentagone.png");
+    background-image: url("./images/pentagone.png");
     background-repeat: no-repeat;
     background-size: 190px 190px;
     background-position: center;
